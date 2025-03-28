@@ -6,6 +6,10 @@
 
 Grease Pencil is a revolutionary AI-powered screenplay writing application that transforms your story ideas into complete, industry-standard scripts. Whether you're an experienced screenwriter looking to streamline your process or a newcomer with a brilliant story concept, Grease Pencil provides the tools to bring your vision to life.
 
+## Demo Login
+- **email**: info.greasepencil@gmail.com
+- **password**: GP-Test
+
 ---
 
 ## 🎬 Project Overview
